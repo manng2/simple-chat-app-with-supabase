@@ -1,0 +1,13 @@
+.chat {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.message {
+  margin-bottom: 12px;
+}
+
+.message .self {
+  color: red;
+}
